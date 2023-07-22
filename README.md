@@ -34,7 +34,7 @@ Here are some of the projects I have worked on:
    - GitHub Repository: https://github.com/PureSnowMan/expense_tracker_mx3
 
 2. **Meals App**
-   - Description: An app for all of your favorite meals with sorting cabability for those with special diets; such as "Gluten Free", "Low Carb", etc.  Also mark your meals as "Favorite" for fast access to these favorite meals.
+   - Description: An app for all of your favorite meals with sorting capability for those with special diets; such as "Gluten Free", "Low Carb", etc.  Also mark your meals as "Favorite" for fast access to these favorite meals.
    - GitHub Repository: https://github.com/PureSnowMan/meals_app_mx5
 
 Feel free to explore these projects to get an idea of my coding style and the quality of my work.
